@@ -8,9 +8,9 @@ from pyrogram.types import (
 )
 
 
-api_id: int = api id
-api_hash: str = "api hash"
-token: str = "token"
+api_id: int = 23918516
+api_hash: str = "44394f47035ffb390840eb9e3c807751"
+token: str = "6305195627:AAGfDKooO2HpySalgVwCSjErY6OGV43h23k"
 
 
 app = Client('viewcounterbot', in_memory=True, api_id=api_id, api_hash=api_hash, bot_token=token)
